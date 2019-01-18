@@ -1,5 +1,7 @@
 package com.example.miguel.basedadesandroid;
 
-public class EditActivity {
+import android.support.v7.app.AppCompatActivity;
+
+public class EditActivity extends AppCompatActivity {
 
 }
